@@ -1,0 +1,125 @@
+* {
+margin: 0;
+padding: 0;
+font-family: arial;
+border: border-box;
+} 
+
+.navbar1{width: 100%;
+height: 50px;
+background-color: #232f3e;}
+
+.navbar3{width: 100%;
+height: 700px;
+background-color: white;
+display: flex;
+justify-content: space-evenly;
+}
+
+.navbar2{width: 100%;
+height: 50px;
+background-color: white;}
+.navbar4{width: 100%;
+height: 200px;
+background-color: #232f3e;
+}
+.n3{width: 92%;
+height: 98%;
+background-color: white;
+border: 1px solid gray;
+border-radius: 3px;}
+.p1{font-size: 28px;
+text-align: left;
+padding-top: 10px;
+margin-left: 10px;
+}
+
+#btn1{height: 50px;
+width: 90%;
+margin-top: 10px;
+border: 0px ;
+border-radius: 5px;
+background-color: #ffd801 ;
+ 
+ }
+.input{height: 40px;
+width: 90%}
+#check{height: 25px;
+width: 25px;
+margin-left: 15px;
+margin-top: 10px;}
+
+.p2{margin-top: 25px;
+text-align: left;
+margin-left: 15px;
+margin-top: 10px;
+font-weight: bold;}
+
+.radio{
+display: inline-block;
+vertical-algin: middle;
+width: 25px;
+height: 25px;
+margin-top: 20px;
+margin-left: 10px;
+}
+
+#p3{margin-top: -25px;
+margin-left: 40px;
+font-weight: bold;
+}
+#p4{font-weight: bold;
+margin-top: -25px;
+margin-left: 50px;}
+#p5{ margin-left: 15px;
+text-align: left;
+margin-top: 15px;}
+#p6{font-weight: bold;
+ font-size: 15px;}
+ #hr{ 
+ width: 90%;
+ margin-top: 20px;
+ border-top: 1px solid #D3D3D3;
+ }
+ #p7{margin-top: 15px;
+ margin-left: 15px;
+ font-weight: bold;
+ }
+ #p8{
+ margin-left: 15px;
+ color:  #146e64;}
+ #hr1{width: 100%;
+ margin-top: 20px;
+ border-top: 1px solid #D3D3D3;
+ }
+ #sign{width:100%;
+ height: 67px;
+ background-color: #F2F3F4;
+ font-weight: bold;
+}
+ #radio1{display: inline-block;
+ vertical-algin: middle;
+ width: 25px;
+ height: 25px;
+ margin-top: 20px;
+ margin-left: 10px;
+ }
+ #p9{margin-top: -25px;
+ margin-left: 50px;}
+ #amazon{height: 25px;
+ width: 100px;
+ margin-top: 15px;
+ 
+ margin-left: 15px;}
+ .fa-globe{margin-left: 60px;
+ margin-top: 30px;}
+ #usa{margin-top: -20px;
+ margin-left: 170px;
+ color: white;}
+ #last9{margin-top: 10px;
+  margin-left: -10px;
+  text-align: center;
+  color: white;
+  size: 7px;}
+  .redd{color:  blue;
+  }
