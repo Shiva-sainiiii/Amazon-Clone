@@ -1,3 +1,7 @@
+link :
+
+https://shiva-sainiiii.github.io/Amazon-Clone/
+
 _Amazon Clone (Front-end)_ 📊
 
 _Project Overview_ 📄
