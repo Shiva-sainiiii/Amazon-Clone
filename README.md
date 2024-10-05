@@ -1,3 +1,7 @@
+**Amazon Clone**
+
+![Game LayOut](amazon1.jpg)
+
 link :
 
 https://shiva-sainiiii.github.io/Amazon-Clone/
