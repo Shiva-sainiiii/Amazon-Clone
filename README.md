@@ -1,6 +1,6 @@
 **Amazon Clone**
 
-![Game LayOut](amazon1.jpg)
+![Game LayOut](ass1.jpg)
 
 link :
 
